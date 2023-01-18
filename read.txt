@@ -1,0 +1,4 @@
+1. Enter the activity you need to have done in the placeholder box
+2.Click enter and the activity will be added to the list
+3.if the edit button is click you can change the activity to something else
+4.if the delete item is pressed the item will be removed
